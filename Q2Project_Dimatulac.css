@@ -1,0 +1,51 @@
+h1{
+   background-color: #F6E3BA;
+   text-align: center;
+   border-style: groove;
+   border-color: #FF781F;
+   border-width: 10px;
+   border-radius: 10px;
+   color: red;
+   font-family: Insaniburger;
+   letter-spacing: 3px;
+}
+
+body{
+   background-color: #F6E3BA;
+   letter-spacing: 3px;
+}
+h2{
+   font-family: Insaniburger;
+   text-align: center;
+   color: #F6E3BA;
+   padding: 30px;
+   background-color: #65350F;
+   letter-spacing: 10px;
+
+}
+
+h3{
+   font-family: Insaniburger;
+   text-align: center;
+   color: #65350F;
+   text-shadow: whitesmoke 3px 3px;
+   text-decoration: overline; 
+}
+
+img{
+   opacity: .75;
+   border-radius: 50px;
+}
+img:hover{
+   opacity: 1;
+}
+
+table{
+   margin-left: auto;
+   margin-right: auto ;
+}
+
+form{
+   text-align: center;
+   color: #65350F;
+}
